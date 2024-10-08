@@ -5,8 +5,6 @@ permalink: /cv/
 author_profile: true
 ---
 
-{% include base_path %}
-
 Education
 ======
 * M.S. in Statistics and Data Science, Southern University of Science and Technology, 2025 (expected)
