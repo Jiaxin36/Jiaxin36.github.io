@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Jiaxin Lu / Personal Homepage"
 title_separator          : "-"
 name                     : &name "Jiaxin Lu"
-description              : &description "Study for a master's degree"
+description              : &description "Study for a doctoral degree"
 url                      : https://Jiaxin36.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Jiaxin36/Jiaxin36.github.io"
@@ -26,7 +26,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Practice makes perfect"
   location         : "Shenzhen, China"
-  employer         : "SUSTech"
+  employer         : "PKUSZ"
   uri              : # URL
   email            : "jiaxin.lu.226@gmail.com" 
 
