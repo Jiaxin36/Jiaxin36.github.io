@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Jiaxin Lu / Personal Homepage"
+title                    : "Jiaxin_Lu / Personal Homepage"
 title_separator          : "-"
 name                     : &name "Jiaxin Lu"
 description              : &description "Study for a doctoral degree"
