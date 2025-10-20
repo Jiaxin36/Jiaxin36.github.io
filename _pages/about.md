@@ -7,8 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-I'm currently a master student in the [Department of Statistics and Data Science](https://stat-ds.sustech.edu.cn/) at [SUSTech](https://stat-ds.sustech.edu.cn/). 
+I'm currently a Ph.D. student in the [School of Urban Planning and Design](https://urban.pkusz.edu.cn/index.htm) at PKU. 
 
-I am very fortunate to be advised by [Prof. Lili Yang](https://faculty.sustech.edu.cn/?tagid=yangll&iscss=1&snapid=1&orderby=date&go=2). My research interest includes urban computing, spatiotemporal data mining, transfer learning, and optimization.
+I am very fortunate to be advised by [Prof. Qiyang Liu](https://qiyangliu.com/). My research interest includes Spatiotemporal Data Mining, Generative Agents (LLMs), and Traffic Behavior Modeling.
 
-[Email](12332881@mail.sustech.edu.cn) / [Github](https://github.com/Jiaxin36)
+[Email](xinzi7115@163.com) / [Github](https://github.com/Jiaxin36)
